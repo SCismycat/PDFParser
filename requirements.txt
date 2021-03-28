@@ -1,0 +1,3 @@
+pandas==0.25.3
+pdfplumber==0.5.25
+openpyxl
